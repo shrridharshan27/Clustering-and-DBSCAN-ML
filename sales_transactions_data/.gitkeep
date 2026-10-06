@@ -1,0 +1,2 @@
+# This file ensures the sales_transactions_data directory is preserved in version control.
+# Datasets are retrieved dynamically at runtime via ucimlrepo (ID: 396) or saved here.
